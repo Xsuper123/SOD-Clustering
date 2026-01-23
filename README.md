@@ -1,5 +1,10 @@
 ﻿# Satellite Object Detection (SOD)-Clustering Dataset
 
+## Related Publications
+Please cite the original paper when using the dataset:
+- P. Hu and W. Zhang, "AI-Driven Collaborative Satellite Object Detection for Space Sustainability," 2025 IEEE International Conference on Wireless for Space and Extreme Environments (WiSEE), Halifax, NS, Canada, 2025, pp. 1-6, [doi: 10.1109/WiSEE57913.2025.11229836](https://ieeexplore.ieee.org/document/11229836). [arXiv link](https://doi.org/10.48550/arXiv.2508.00755)
+
+
 ## Dataset Generation
 
 This dataset is designed to simulate scenarios involving multiple nearby satellites capturing the same scene from slightly offset positions but identical viewing angles. The goal is to study how a multi-view setting influences satellite object detection. We fix the cluster size at three satellites in this dataset.
@@ -63,4 +68,5 @@ Wenxuan Zhang and Peng Hu
 
 ## License
 This dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/
+
 
